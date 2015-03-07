@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><book><author><firstName>Александр</firstName><lastName>Пушкин</lastName></author><catalog> 34</catalog><id>   </id><title>Полтава</title><year>2008</year></book>
+<?xml
+
+ jdshlkahf;kiaushv;sh;
+
+ version="1.0" encoding="UTF-8" standalone="yes"?><book><author><firstName>Александр</firstName><lastName>Пушкин</lastName></author><catalog> 34</catalog><id>   </id><title>Полтава</title><year>2008</year></book>
